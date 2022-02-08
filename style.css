@@ -10,11 +10,11 @@ body {
 .navbar ul {
   list-style-type: none;
   margin-top: 10%;
-  margin-right: 12%;
   padding: 0;
+  right: 10%;
   width: 16%;
   background-color: #f1f1f1;
-  float: right;
+  position: fixed;
   height: auto;
   border: 1px solid #555;
 }
